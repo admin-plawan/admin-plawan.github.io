@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "PLawan - Your Personal Finance Everything"
+email: admin@plawan.com.np
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Plawan
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -43,9 +43,7 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  
 
 # Plugins
 plugins: 
